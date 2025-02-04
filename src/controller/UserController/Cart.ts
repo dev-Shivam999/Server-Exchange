@@ -2,7 +2,7 @@
 // import { UserCart, UserSC, UserSchema } from "../../models/UserModels";
 // import { SelProduct, Uc } from "../../type/type";
 // import { SelModel } from "../../models/SelModels";
-// import { CustomRequest } from "../../utils/utils";
+//import { CustomRequest } from "../../utils/utils";
 
 // export const Cart = async (req: CustomRequest, res: Response) => {
 
